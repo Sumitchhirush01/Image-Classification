@@ -1,11 +1,10 @@
 # Image-Classification
-In this project, I build and train a deep L-layer neural network, and applied to classify cat images from non-cat images using python in jupyter notebook.
+In this project, we build and train a deep L-layer neural network, and applied to classify cat images from non-cat images using python in jupyter notebook.
 
-In this notebook, you'll implement all the functions required to build a deep neural network.
-For the next assignment, you'll use these functions to build a deep neural network for image classification.
-By the end of this assignment, you'll be able to:
+In this notebook, we'll implement all the functions required to build a deep neural network.
+ we'll use functions to build a deep neural network for image classification.
 
-Use non-linear units like ReLU to improve your model
+Use non-linear units like ReLU to improve our model
 Build a deeper neural network (with more than 1 hidden layer)
 Implement an easy-to-use neural network class
 Notation:
